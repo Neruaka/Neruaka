@@ -1,22 +1,36 @@
-<h1 align="center">Salut 👋, moi c'est Frederick Toufik</h1>
-<h3 align="center">Étudiant en Bachelor 3 à Ynov Campus, alternant pour l'Association Diocésaine de Paris</h3>
+# 👋 Bonjour, je suis Frederick Toufik !
+### Développeur Full Stack en Alternance | Passionné par le Back-End et l'Architecture Logicielle
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neruaka&label=Profile%20views&color=0e75b6&style=flat" alt="neruaka" /> </p>
+Je suis actuellement étudiant en Bachelor 3 à Ynov Campus et en alternance pour l'Association Diocésaine de Paris. Polyvalent et curieux, j'aime explorer toutes les facettes du développement, de la gestion de bases de données aux interfaces utilisateur, avec une préférence pour le développement back-end et l'optimisation des systèmes.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neruaka" alt="neruaka" /></a> </p>
+## ⚙️ Compétences Techniques
 
-- 🌱 J'apprend actuellement : **JavaScript avancé, React, Spring Boot, PostgreSQL**
+- **Langages :** PHP, Java, C#, JavaScript, SQL, MySQL
+- **Frameworks :** Spring Boot, Symfony, Laravel, React
+- **Outils :** Git, Docker, Jenkins, Heroku
+- **Bases de Données :** MySQL, PostgreSQL, SQL Server
+- **Développement Front-End :** HTML, CSS, JavaScript, Angular, Vue
 
-- 👨‍💻 Mes projets sont disponible sur : [https://github.com/Neruaka](https://github.com/Neruaka)
+## 🚀 Projets Principaux
 
-- 📫 Pour me contacter **Email : frederick.toufik@gmail.com**
+- [**Leboncoin Clone**](https://github.com/Neruaka/Leboncoin) : Réplique du célèbre site de petites annonces, développé en PHP et SQL pour gérer les utilisateurs, les annonces et les transactions de manière sécurisée.
+- [**QCM PHP**](https://github.com/Neruaka/QCM-php) : Plateforme interactive de QCM en PHP, permettant d'évaluer les connaissances des utilisateurs à différents niveaux de difficulté.
+- [**Calculatrice en C#**](https://github.com/Neruaka/C-sharp-calculatrice) : Calculatrice graphique développée en C# avec Windows Forms, intégrant des fonctionnalités avancées de calcul.
 
-- 📄 CV [https://www.linkedin.com/in/frederick-toufik/overlay/1717009158318/single-media-viewer/?profileId=ACoAACiXnsYB5N5IPoSWAU5-ghb8yPIQB6h7DgU](https://www.linkedin.com/in/frederick-toufik/overlay/1717009158318/single-media-viewer/?profileId=ACoAACiXnsYB5N5IPoSWAU5-ghb8yPIQB6h7DgU)
+## 🌱 Actuellement en apprentissage
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/frederick-toufik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frederick-toufik" height="30" width="40" /></a>
-</p>
+- **JavaScript Avancé et React** : Pour créer des interfaces utilisateur dynamiques et performantes.
+- **Spring Boot & PostgreSQL** : Pour développer des API back-end robustes et scalables.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 📫 Me contacter
+
+- [Email](mailto:frederick.toufik@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/frederick-toufik)
+
+## 🎮 Intérêts Personnels
+
+- **Impression 3D** : J’aime transformer des concepts numériques en objets réels et tangibles.
+- **Jeux de Stratégie** : Ils développent ma réflexion stratégique et ma capacité à résoudre des problèmes complexes.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neruaka&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neruaka&layout=compact&theme=radical)
