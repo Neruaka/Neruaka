@@ -1,5 +1,5 @@
 # 👋 Bonjour, je suis Frederick Toufik !
-### Développeur Full Stack en Alternance | Passionné par le Back-End et l'Architecture Logicielle
+### Développeur en Alternance
 
 Je suis actuellement étudiant en Bachelor 3 à Ynov Campus et en alternance pour l'Association Diocésaine de Paris. Polyvalent et curieux, j'aime explorer toutes les facettes du développement, de la gestion de bases de données aux interfaces utilisateur, avec une préférence pour le développement back-end et l'optimisation des systèmes.
 
