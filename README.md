@@ -1,60 +1,77 @@
 # Hi, I'm Frederick
 
 🎓 M1 student in Data & AI at IPSSI (France)  
-💼 Apprentice full-stack developer (React, Node.js, PostgreSQL, Python)  
-📊 Interested in data, software optimisation and modern system architectures  
+💼 Apprentice full-stack developer & junior data engineer  
+📊 Passionate about data products, clean architectures and automation (CI/CD, MLOps)
 
 ---
 
 ## 🧑‍💻 About me
 
-- I build web applications from database design to frontend UI.
-- I enjoy working on real-world projects: internal tools, dashboards, and e-commerce platforms.
-- I like clean code, good architecture diagrams and automation (CI/CD, Docker, DevOps practices).
-- Currently based near Paris, France.
+- I like turning real business problems into data-driven applications (dashboards, internal tools, APIs).
+- I work across the stack: from data modelling and backend APIs to front-end UIs in React.
+- I am building strong foundations in machine learning, data engineering and software craftsmanship.
+- Currently looking to grow in **Data Engineering / ML Engineering / MLOps** roles.
 
 ---
 
-## 🛠 Tech stack
+## 🔬 Data & AI focus
 
-> _Tech stack_ = the main technologies I use regularly.
+**Core languages**  
+- Python (data & ML): pandas, NumPy, scikit-learn, Jupyter  
+- SQL: PostgreSQL, MySQL  
+- JavaScript/TypeScript: Node.js, React
 
-**Languages**  
-JavaScript (Node.js, React), PHP, Java, Python, C#
+**Machine Learning**  
+- Supervised learning (classification, regression)  
+- Data cleaning & feature engineering  
+- Model training & evaluation in notebooks  
+- Basic experimentation and reproducibility mindset
 
-**Backend**  
-Node.js, Express, REST APIs, C# (.NET for Windows services)
+**Data Engineering**  
+- REST APIs for data access (Node.js / Express)  
+- ETL-style scripts and data pipelines  
+- Relational modelling (Merise / UML) with PostgreSQL  
+- Docker for local environments and reproducible setups  
+- CI/CD with GitLab for automated builds and deployment
 
-**Frontend**  
-React, React Router, Material UI, basic React Native
+**MLOps & Cloud (learning path)**  
+- Versioning code & data with Git  
+- Containerisation with Docker for ML services  
+- Interest in model deployment, monitoring and scalable data platforms
 
-**Databases**  
-PostgreSQL, MySQL, MongoDB  
-(SQL schema design, queries, migrations, performance basics)
+---
 
-**DevOps & Tools**  
-Git & GitHub/GitLab, GitLab CI/CD, Docker, Linux, VS Code, Visual Studio, IIS
+## 💻 Software & web stack
 
-**Concepts**  
-Full-stack development, API design, security basics, data modelling (Merise / UML), clean architecture mindset
+- **Frontend**: React, React Router, Material UI  
+- **Backend**: Node.js, Express, C# (Windows services)  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
+- **Tools**: Git & GitHub/GitLab, GitLab CI/CD, Docker, Linux, VS Code, Visual Studio, IIS  
 
 ---
 
 ## 📂 Selected projects
 
-- **JanaDistribution** – B2B/B2C e-commerce platform for food products  
-  _React 18, Node.js (Express), PostgreSQL, Docker. Focus on clean architecture, authentication and admin features._  
+- **JanaDistribution** – B2B/B2C food e-commerce platform  
+  _React 18, Node.js (Express), PostgreSQL, Docker, modular architecture._  
+  Focus on authentication, admin back-office and future analytics dashboards.  
   👉 [`Neruaka/JanaDistribution`](https://github.com/Neruaka/JanaDistribution)
 
-- **Funeral management web app** (professional project – private)  
-  _Migration of a legacy Microsoft Access application to a modern web stack (React, Node.js, PostgreSQL).  
-  Includes complex workflows, role management, reporting and data migration._
+- **Funeral management web app** (professional project – private repo)  
+  Migration of a legacy Microsoft Access database to a modern web stack  
+  _(React + Node.js + PostgreSQL)_.  
+  Complex domain with workflows, roles, reporting and data migration.
 
-- **Windows Service – secure port forwarding (C#)**  
-  _Custom Windows service with authentication and logging to securely expose internal services._
+- **Glycemic tracking assistant** (personal project – in progress)  
+  Web app for blood glucose tracking using external CGM APIs,  
+  Python backend for data processing and smart insights,  
+  plus a React front-end for visualisation and advice.
 
-- **Various experiments**  
-  QCM platform in PHP, small Leboncoin-style clone, Discord bots in Node.js, configs & dotfiles.
+- **Automation & tools**  
+  Windows service for secure port forwarding (C#),  
+  QCM platform in PHP, small Leboncoin-style clone, Discord bots in Node.js,  
+  configuration/dotfiles for my development environment.
 
 ---
 
