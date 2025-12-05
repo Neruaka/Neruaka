@@ -1,4 +1,4 @@
-# Hi, I'm Frederick Toufik
+# Hi, I'm Frederick
 
 🎓 M1 student in Data & AI at IPSSI (France)  
 💼 Apprentice full-stack developer (React, Node.js, PostgreSQL, Python)  
