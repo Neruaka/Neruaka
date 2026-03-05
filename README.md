@@ -1,87 +1,132 @@
-# Hi, I'm Frederick
+<div align="center">
 
-🎓 M1 student in Data & AI at IPSSI (France)  
-💼 Apprentice full-stack developer & junior data engineer  
-📊 Passionate about data products, clean architectures and automation (CI/CD, MLOps)
+# Frederick Toufik
 
----
+**Software Engineer → Data & ML Engineering**
 
-## 🧑‍💻 About me
+Building data-intensive applications and health tech platforms with TypeScript, Python, and PostgreSQL.
 
-- I like turning real business problems into data-driven applications (dashboards, internal tools, APIs).
-- I work across the stack: from data modelling and backend APIs to front-end UIs in React.
-- I am building strong foundations in machine learning, data engineering and software craftsmanship.
-- Currently looking to grow in **Data Engineering / ML Engineering / MLOps** roles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/frederick-toufik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://github.com/Neruaka)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:frederick.toufik@gmail.com)
 
----
-
-## 🔬 Data & AI focus
-
-**Core languages**  
-- Python (data & ML): pandas, NumPy, scikit-learn, Jupyter  
-- SQL: PostgreSQL, MySQL  
-- JavaScript/TypeScript: Node.js, React
-
-**Machine Learning**  
-- Supervised learning (classification, regression)  
-- Data cleaning & feature engineering  
-- Model training & evaluation in notebooks  
-- Basic experimentation and reproducibility mindset
-
-**Data Engineering**  
-- REST APIs for data access (Node.js / Express)  
-- ETL-style scripts and data pipelines  
-- Relational modelling (Merise / UML) with PostgreSQL  
-- Docker for local environments and reproducible setups  
-- CI/CD with GitLab for automated builds and deployment
-
-**MLOps & Cloud (learning path)**  
-- Versioning code & data with Git  
-- Containerisation with Docker for ML services  
-- Interest in model deployment, monitoring and scalable data platforms
+</div>
 
 ---
 
-## 💻 Software & web stack
+### About
 
-- **Frontend**: React, React Router, Material UI  
-- **Backend**: Node.js, Express, C# (Windows services)  
-- **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Tools**: Git & GitHub/GitLab, GitLab CI/CD, Docker, Linux, VS Code, Visual Studio, IIS  
+Full-stack developer with 3+ years of experience (React, Node.js, PostgreSQL, C#/.NET), currently pivoting to **Data Engineering & ML Engineering**. M1 Data & AI student at IPSSI, working as an apprentice at the Diocèse de Paris where I migrate legacy systems to modern web architectures.
 
----
+I build tools that solve real problems — including a [multi-service health data platform](#-nightscout-platform) for my own diabetes management that ingests CGM data, computes health scores, and serves real-time analytics.
 
-## 📂 Selected projects
-
-- **JanaDistribution** – B2B/B2C food e-commerce platform  
-  _React 18, Node.js (Express), PostgreSQL, Docker, modular architecture._  
-  Focus on authentication, admin back-office and future analytics dashboards.  
-  👉 [`Neruaka/JanaDistribution`](https://github.com/Neruaka/JanaDistribution)
-
-- **Funeral management web app** (professional project – private repo)  
-  Migration of a legacy Microsoft Access database to a modern web stack  
-  _(React + Node.js + PostgreSQL)_.  
-  Complex domain with workflows, roles, reporting and data migration.
-
-- **Glycemic tracking assistant** (personal project – in progress)  
-  Web app for blood glucose tracking using external CGM APIs,  
-  Python backend for data processing and smart insights,  
-  plus a React front-end for visualisation and advice.
-
-- **Automation & tools**  
-  Windows service for secure port forwarding (C#),  
-  QCM platform in PHP, small Leboncoin-style clone, Discord bots in Node.js,  
-  configuration/dotfiles for my development environment.
+🌱 Currently learning: **Apache Airflow, Spark, MLflow, Kubernetes**
 
 ---
 
-## 📈 GitHub stats
+### Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neruaka&layout=compact&theme=dark)
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Data & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**Web & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📫 Get in touch
+### Featured Projects
 
-- LinkedIn: [Frederick Toufik](https://www.linkedin.com/in/frederick-toufik)  
-- Email: **frederick.toufik@gmail.com**
+#### 🩺 Nightscout Platform
+> **Real-time health data platform** — Multi-service monorepo connecting CGM ecosystem to analytics
+
+Personal project solving my own type 1 diabetes management needs. Full data pipeline from sensor to insight.
+
+| Component | Stack | What it does |
+|---|---|---|
+| **Desktop App** | Electron, React, TypeScript | 24h glucose charts, health scoring, bolus advisor, i18n |
+| **Integrations API** | Express, MongoDB, Railway | Data ingestion & REST endpoints with token auth |
+| **Android Bridge** | Kotlin, Health Connect, WorkManager | Syncs meals/steps/weight every 15 min |
+| **Nightscout Deploy** | Docker, MongoDB Atlas, GitHub Actions | CGM server with automated backups |
+
+Key algorithms: weighted health score (TIR/variability/hypo/stability), unlogged meal detection via slope analysis, insulin sensitivity regression with confidence levels.
+
+`TypeScript` `Kotlin` `MongoDB` `Electron` `Railway` `Docker` `Health Connect`
+
+---
+
+#### 🏗️ Legacy → Web Migration (Professional)
+> **Full-stack app replacing a 10+ year Microsoft Access system** — Diocèse de Paris
+
+Private repo (professional project). Architected React + Node.js + PostgreSQL application with JWT auth, role-based access (3 levels), Merise data modeling (20+ tables), and GDPR compliance.
+
+`React` `Node.js` `PostgreSQL` `JWT` `Express` `Merise` `RGPD`
+
+---
+
+#### 🐺 Werewolf Mobile
+> **Real-time multiplayer mobile game** — Project lead, team of 4
+
+React Native game with Supabase real-time sync (WebSocket + PostgreSQL). State machine for game phases, voting system, 5+ roles, lobby for 8+ players. Led agile planning, GitHub workflow (branches, PR reviews, issues).
+
+`React Native` `Supabase` `WebSocket` `Agile`
+
+---
+
+#### 🌱 PlanteFlic
+> **Full-stack MERN plant watering tracker** — JWT auth, i18n, dark/light theme
+
+MongoDB data modeling with Mongoose for time-series tracking. Custom React hooks, internationalization (FR/EN), responsive UX.
+
+`MongoDB` `Express` `React` `Node.js` `JWT` `i18n`
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neruaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neruaka&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+### What I'm Looking For
+
+Open to **Data Engineer**, **ML Engineer**, **MLOps**, and **Software Engineer** opportunities worldwide.
+
+Bilingual French 🇫🇷 / English 🇬🇧 — Remote-friendly, open to relocation (Canada, USA, Asia, Europe).
+
+---
+
+<div align="center">
+<sub>Building things that matter, one commit at a time.</sub>
+</div>
