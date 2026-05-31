@@ -1,7 +1,5 @@
 <div align="center">
 
-# Frederick Toufik
-
 **Software Engineer → Data & ML Engineering**
 
 Building data-intensive applications and health tech platforms with TypeScript, Python, and PostgreSQL.
