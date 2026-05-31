@@ -2,11 +2,7 @@
 
 **Software Engineer → Data & ML Engineering**
 
-Building data-intensive applications and health tech platforms with TypeScript, Python, and PostgreSQL.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/frederick-toufik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://github.com/Neruaka)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:frederick.toufik@gmail.com)
+Building data-intensive applications and health tech platforms with TypeScript, Python, and PostgreSQL
 
 </div>
 
